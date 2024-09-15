@@ -1,4 +1,4 @@
 # first_demo
 My first Git repository
 <br>
-Author-Aditi Mukherjee
+Author-Aditi Mukherjee(Aditi)
